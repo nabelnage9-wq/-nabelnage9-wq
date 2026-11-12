@@ -16,12 +16,13 @@ I'm **Nabel Nage Nabel**, a Flutter and Web Developer who enjoys building mobile
 
 - 📱 Mobile app development with Flutter
 - 🌐 Web development with HTML, CSS, and JavaScript
+- 💻 Also interested in Python and C++
 - 💡 Interested in creating useful and user-friendly digital experiences
 
 ## 🛠️ Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dart,flutter,html,css,js,git,github,vscode" alt="Dart, Flutter, HTML, CSS, JavaScript, Git, GitHub, and VS Code" />
+  <img src="https://skillicons.dev/icons?i=dart,flutter,html,css,js,python,cpp,git,github,vscode" alt="Dart, Flutter, HTML, CSS, JavaScript, Python, C++, Git, GitHub, and VS Code" />
 </p>
 
 ## 💡 Project Ideas
