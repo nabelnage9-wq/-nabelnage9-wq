@@ -1,53 +1,55 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=30&amp;duration=2500&amp;pause=900&amp;color=36BCF7&amp;background=071A2B&amp;center=true&amp;vCenter=true&amp;width=750&amp;height=100&amp;lines=I+am+Nabel+Nage+Nabel;Flutter+%26+Web+Developer;Building+ideas+into+apps+%26+websites" alt="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=30&amp;duration=2500&amp;pause=900&amp;color=38BDF8&amp;background=071A2B&amp;center=true&amp;vCenter=true&amp;width=800&amp;height=100&amp;lines=I+am+Nabel+Nage+Nabel;Flutter+%26+Web+Developer;Turning+ideas+into+digital+experiences" alt="Animated introduction: Nabel Nage Nabel, Flutter and Web Developer" />
 
 <br/>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&amp;label=PROFILE+VIEWS&amp;color=0e75b6&amp;style=for-the-badge" alt="Profile views" />
-</a>
+<img src="https://komarev.com/ghpvc/?username=nabelnage9-wq&amp;label=PROFILE+VIEWS&amp;color=0284C7&amp;style=for-the-badge" alt="Profile views" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👋 About Me
 
-- 📱 Flutter developer building mobile applications
-- 🌐 Web developer creating modern websites
-- 💡 I enjoy turning ideas into practical digital experiences
-- 📍 Based in Egypt
+I'm **Nabel Nage Nabel**, a Flutter and Web Developer who enjoys building mobile apps and websites.
 
-## 🧰 Languages and Tools
+- 📱 Mobile app development with Flutter
+- 🌐 Web development with HTML, CSS, and JavaScript
+- 💡 Interested in creating useful and user-friendly digital experiences
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=dart,flutter,html,css,js,git,github,vscode" alt="Dart, Flutter, HTML, CSS, JavaScript, Git, GitHub, VS Code" />
+## 🛠️ Languages and Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dart,flutter,html,css,js,git,github,vscode" alt="Dart, Flutter, HTML, CSS, JavaScript, Git, GitHub, and VS Code" />
 </p>
+
+## 💡 Project Ideas
+
+These are project ideas I’m interested in building:
+
+- 📱 **Task Manager App** — A Flutter app for organizing tasks and daily goals
+- 🌦️ **Weather App** — A clean weather app with location-based forecasts
+- 🛍️ **Online Store Website** — A responsive web store with product listings and search
+- 💼 **Personal Portfolio** — A website to showcase projects and development work
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;rank_icon=github" alt="GitHub statistics" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=nabelnage9-wq&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;rank_icon=github" alt="GitHub statistics" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="Most used languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabelnage9-wq&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="Most used languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com?user=nabelnage9-wq&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub contribution streak" />
 
 </div>
 
-## 📫 Connect With Me
+## 🌐 Connect With Me
 
-<p align="left">
-  <a href="mailto:nabelnage9@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" />
-  </a>
-  <a href="tel:01070436543">
-    <img src="https://img.shields.io/badge/Phone%20%2F%20WhatsApp-25D366?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=white" alt="Phone and WhatsApp" />
-  </a>
+<p align="center">
   <a href="https://www.facebook.com/nabel.nage.2025">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" alt="Facebook" />
   </a>
@@ -60,5 +62,5 @@
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:071A2B,100:36BCF7&amp;height=100&amp;section=footer" alt="Blue animated footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:071A2B,50:0369A1,100:38BDF8&amp;height=120&amp;section=footer" alt="Blue footer design" />
 </div>
