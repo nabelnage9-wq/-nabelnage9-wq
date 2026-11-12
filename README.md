@@ -1,10 +1,6 @@
 <p align="center">
-  <img src="https://i.gifer.com/7VE.gif" width="100%" alt="Animated blue background" />
-</p>
-
-<h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=32&amp;duration=2500&amp;pause=900&amp;color=36BCF7&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=I+am+Nabel+Nage+Nabel;Flutter+%26+Web+Developer" alt="I am Nabel Nage Nabel — Flutter and Web Developer" />
-</h1>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&amp;label=Profile%20Views&amp;color=blue&amp;style=for-the-badge" alt="Profile views" />
